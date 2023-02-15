@@ -7,7 +7,8 @@ You may change the code base in any other way, including moving code to other
 files, as long as `compiler.rkt` reprovides the appropriate functions.
 You can check this is the case by running `raco test interface-test.rkt`.
 
-To submit, make sure you most recent work is merged into this branch and this
-branch is pushed.
+# Gitpod 
 
-For versions of the skeletons from prior versions of the course, see the tags.
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/capt-hb/compilers-skeletons-vub)
+
+NOTE: update the URL in this README to the that of your repository (i.e. after the `#`), the default Gitpod button will create a workspace for the skeletons repository.
